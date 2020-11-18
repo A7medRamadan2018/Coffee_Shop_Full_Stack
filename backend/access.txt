@@ -1,0 +1,1 @@
+https://udacityprojects.us.auth0.com/authorize?audience=drinks&response_type=token&client_id=Q803J7a77aJnty0NCyAHdN4EVOPXo1Ya&redirect_uri=http://localhost:8100/tabs/user-page
